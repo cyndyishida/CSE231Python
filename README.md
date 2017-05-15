@@ -4,7 +4,7 @@ intended purely for instructional purposes and available for public distrubution
 Additional Instructional material I have created as an undergraduate teaching assistant at Michigan State University
 > CSE 231: Programming I
 > " Introduction to programming using Python. Design, implementation and testing of programs to solve problems such as those in engineering, mathematics and science. Programming fundamentals, functions, objects, and use of libraries of functions." 
-> as quoted on the [MSU Course Site] (http://cse.msu.edu/~cse231/) 
+> as quoted on the [MSU Course Site](http://cse.msu.edu/~cse231/) 
 
 
 ## Directory Break down
@@ -14,4 +14,8 @@ Additional Instructional material I have created as an undergraduate teaching as
 
 
 
-* PDF versions are avialable  on [my website] (http://cyndyishida.me/cse231.html) 
+
+
+
+
+* PDF versions are available on [my website](http://cyndyishida.me/cse231.html) 
