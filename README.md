@@ -7,7 +7,7 @@ Additional Instructional material I have created as an undergraduate teaching as
 > as quoted on the [MSU Course Site](http://cse.msu.edu/~cse231/) 
 
 
-## Directory Break down
+## Directory BreakDown
 - Every week directory is the topic of discussion for the class including slides, and potentially source code I have constructed
 - Exam Review directories are material I prepared for review sessions I held for current students 
 - Includes small python scripts I created to automate certain tasks 
